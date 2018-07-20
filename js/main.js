@@ -67,7 +67,7 @@ $(window).resize(function() {
 });
 document.addEventListener('DOMContentLoaded', function() {
     new Typed('.home_title #subtitle', {
-        strings: ['Hi, I am a creative, conceptualized and certified UI/UX expert.', 'I like to do UI Designing, Animation and Prototyping.', 'I deliver beautiful and usable designs for Websites and Apps.'],
+        strings: ['Hi, I am a Fullstack Web and Mobile developer.', 'I like to develop creative ideas.', 'I follow high quality coding practices.', 'I like to stay upto date with new technology trendz.'],
         typeSpeed: 50,
         backSpeed: 20,
         smartBackspace: true,
